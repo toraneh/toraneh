@@ -1,6 +1,6 @@
 # H. Torane
 
-Attorney based in Solapur, Maharashtra, India.
+Independent researcher and legal consultant based in Solapur, India, committed to accessible, reproducible research advancing law and other fields across academia and industry. Building open-source analysis pipelines and publishing preprints. Sponsorships directly fund computational resources, data access, and sustaining my independent legal practice, open-source development, and open science.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=toraneh&color=brightgreen&style=flat)
 
