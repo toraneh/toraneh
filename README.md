@@ -2,7 +2,7 @@
 
 Independent researcher and legal consultant based in Solapur, India. Committed to accessible, reproducible research advancing law and interdisciplinary fields across academia and industry. 
 
-I build open-source analysis pipelines, publish preprints, and advocate for open science. Sponsorships directly fund computational resources, continuous professional development, and the sustainability of my independent legal practice and open-source projects.
+I build open-source analysis pipelines, publish preprints, and advocate for open access research. A sponsorship directly funds computational resources, continuous professional development, and the sustainability of my independent legal practice and open-source projects.
 
 ---
 
