@@ -12,7 +12,7 @@ Independent researcher and legal consultant based in Solapur, India. I develop o
 * **ORCID:** [0009-0009-8512-8137](https://orcid.org/0009-0009-8512-8137)
 
 ### ☕ Support My Work
-Your sponsorship directly funds computational infrastructure, continuous professional development, and the long-term sustainability of my independent legal practice and open-source projects.
+Your sponsorship directly funds computational infrastructure, continuous professional development, and the sustainability of my independent legal practice and open-source projects.
 
 * **Sponsor via PhonePe:** Scan the QR code below to support via PhonePe.
 
