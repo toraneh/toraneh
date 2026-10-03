@@ -14,7 +14,11 @@ Independent researcher and legal consultant based in Solapur, India. I develop o
 ### ☕ Support My Work
 Your sponsorship directly funds computational infrastructure, continuous professional development, and the long-term sustainability of my independent legal practice and open-source projects.
 
-* **Sponsor via QR Code:** [PhonePe](https://github.com/toraneh/toraneh/blob/main/PhonePe.jpeg)
+* **Sponsor via PhonePe:** Scan the QR code below to support via PhonePe.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/toraneh/toraneh/main/PhonePe.jpeg" alt="PhonePe QR Code" width="400" />
+</p>
 
 ---
 
