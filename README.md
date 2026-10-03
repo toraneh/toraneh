@@ -1,6 +1,6 @@
 # H. Torane
 
-Independent researcher and legal consultant based in Solapur, Maharashtra, India. I develop open-source analysis pipelines for legal research, publish open-access scholarship, and bridge academic rigor with interdisciplinary innovation.
+Independent researcher and legal consultant based in Solapur, Maharashtra, India. I publish open-access scholarship, and bridge academic rigor with interdisciplinary innovation.
 
 ---
 
