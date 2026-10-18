@@ -16,4 +16,4 @@ Your sponsorship directly funds computational infrastructure, continuous profess
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=toraneh&color=brightgreen&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=https://github.com/toraneh)
