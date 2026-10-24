@@ -15,3 +15,6 @@ Your sponsorship directly funds computational infrastructure, continuous profess
 * **Sponsor via Buy Me a Coffee:** Support my work at [buymeacoffee.com/htorane](https://buymeacoffee.com/htorane).
 
 ---
+
+![Profile Views](https://komarev.com/ghpvc/?username=toraneh) 
+
